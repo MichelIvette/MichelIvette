@@ -24,8 +24,8 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 
 ### Lenguajes de marcado y estilos
 
-<img width="70"  alt="image" src="https://github.com/user-attachments/assets/1073ed14-8d6b-4192-9f43-f7747f92f04b" />
-<img width="70"  alt="image" src="https://github.com/user-attachments/assets/03fb81a3-b214-4179-8082-a9f33c85b274" />
+<img width="65"  alt="image" src="https://github.com/user-attachments/assets/1073ed14-8d6b-4192-9f43-f7747f92f04b" />
+<img width="65"  alt="image" src="https://github.com/user-attachments/assets/03fb81a3-b214-4179-8082-a9f33c85b274" />
 
 
 ### Bases de datos
