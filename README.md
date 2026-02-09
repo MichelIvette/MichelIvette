@@ -2,9 +2,9 @@
 <h1 align="center">¡Hola! Soy Michel Ivette</h1>
 
 <p align="center">Estudiante de Ciencias de la Informática (6º semestre) | IPN - UPIICSA</p>
-<p>
+
   Estudiante de Ciencias de la Informática con interés en el desarrollo de aplicaciones web, móviles y bases de datos. Cuento con formación en programación, análisis de requerimientos y pruebas de software. Actualmente busco integrarme a equipos de trabajo donde pueda seguir aprendiendo, aportar valor y desarrollarme profesionalmente.
-</p>
+
 
 ---
 ## 🛠️ Stack Tecnológico
