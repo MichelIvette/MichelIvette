@@ -38,9 +38,11 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ## Proyectos destacados
 
 🔗 **StartGo** - Sistema de gestión para una escuela de manejo.
+
 📌 Repositorio: https://github.com/MichelIvette/StartGo
 
 🔗 **Greenleaf** – Aplicación móvil para una tienda de plantas.
+
 📌 Repositorio: https://github.com/MichelIvette/Greenleaf
 
 
