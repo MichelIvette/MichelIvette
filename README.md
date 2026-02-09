@@ -31,8 +31,9 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 
 ### Bases de datos
 
-<img width="50"  alt="image" src="https://github.com/user-attachments/assets/b60da850-2032-4ac6-b1b4-262cb280d24f" />
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/1dfaeae1-1eef-4776-8760-71e843d88e7c" />
+<img width="60"  alt="image" src="https://github.com/user-attachments/assets/4032400a-74a1-457f-a4c8-da84a73dbd57" />
+<img width="50"  alt="image" src="https://github.com/user-attachments/assets/4b6e0bb1-041a-4a1b-a01c-841fe422d5a0" />
+
 
 ---
 
