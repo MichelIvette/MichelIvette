@@ -10,20 +10,24 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 
 ### Lenguajes de programación
 
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/264217e9-fbda-464e-b7b1-02964c83e957" />
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/cf4f74d4-b315-4704-b2c9-f14ccfc94f8b" />
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/70f108ef-e0d4-4894-b33a-96e030fddda4" />
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/048b74e4-617b-448e-b97e-d884d81403b8" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/ab722fec-4e8b-4574-8ff2-42474a51de98" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/5aeca084-458e-4f1e-9b34-54b6d0626cb2" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/5739fe36-7d97-41ec-a68f-846e95418e93" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/54507abe-c14c-4614-8642-64bee6fcb89c" />
+
 
 ### Frameworks y Tecnologías
 
-<img width="50"  alt="image" src="https://github.com/user-attachments/assets/6ae500e6-6e91-4a99-9ca3-08f010b4da4a" />
-<img width="60"  alt="image" src="https://github.com/user-attachments/assets/c1d20dbc-8f40-4281-a0e6-d15c3ef41122" />
+<img width="50"  alt="image" src="https://github.com/user-attachments/assets/c7e7e115-4a81-4351-9001-e928e4d7ec13" />
+<img width="60" alt="image" src="https://github.com/user-attachments/assets/a27f8e80-482f-4686-84dd-1b556cf88e66" />
+
 
 ### Lenguajes de marcado y estilos
 
-<img width="60" alt="image" src="https://github.com/user-attachments/assets/1a2676ff-6091-47ab-b896-471145b3eedd" />
-<img width="60" alt="image" src="https://github.com/user-attachments/assets/e61ce388-4e45-41f4-9850-289136893cc6" />
+<img width="60"  alt="image" src="https://github.com/user-attachments/assets/1073ed14-8d6b-4192-9f43-f7747f92f04b" />
+<img width="60"  alt="image" src="https://github.com/user-attachments/assets/03fb81a3-b214-4179-8082-a9f33c85b274" />
+
+
 
 ### Bases de datos
 
@@ -38,23 +42,9 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 📌 Repositorio: https://github.com/MichelIvette/StartGo
 
 🔗 **Proyecto2** – Otra app interesante o herramienta.  
-📌 Repositorio: https://github.com/MichelIvette/Greenleaf/tree/main
+📌 Repositorio: https://github.com/MichelIvette/Greenleaf
 
 
 
 
 
-<!--
-**MichelIvette/MichelIvette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
